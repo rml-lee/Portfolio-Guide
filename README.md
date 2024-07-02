@@ -2,7 +2,7 @@
 
 
 
-## Data Projects:
+## Main Projects:
 
 | Project Link | Project Description | Domain | 
 |--------------|---------------------|--------|
